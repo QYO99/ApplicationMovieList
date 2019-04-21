@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">List Movie Apps</string>
+    <string name="api_key">5bbc0596345702c788b657f8ccd1b006</string>
+    <string name="base_path_poster">https://image.tmdb.org/t/p/w500</string>
+</resources>
